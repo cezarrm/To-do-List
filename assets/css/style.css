@@ -56,3 +56,20 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.taxar {
+
+  text-decoration: line-through;
+  color: rgb(182, 182, 182);
+}
+
+button {
+
+  margin-left: 15px;
+
+}
+
+li {
+  font-size: 16px;
+  
+}
